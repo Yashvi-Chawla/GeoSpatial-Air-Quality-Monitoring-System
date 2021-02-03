@@ -9,8 +9,8 @@ city of Edinburgh and perform analysis on the spatio-temporal variation of the p
 the system aims at notifying the users subscribed to our monitoring service the changes in air quality when it exceeds certain limits.
 Other than analysis and visualization of collected data, we also discuss the security aspects of the end to end prototype developed.
 Based on this, the objectives of our project are:
-• Build a firmware for our IoT system.
-• Build a simple Android Application that enables sending the measurements collected by the sensors to the cloud.
-• Build a cloud based analytics pipeline and a visualization dashboard for spatio temporal data processing and real time visualization of air quality.
-• Build a notification system to alert the users about the air quality in their location.
-• Use encryption-decryption techniques to ensure secure transfer of data from the embedded device to the cloud
+* Build a firmware for our IoT system.
+* Build a simple Android Application that enables sending the measurements collected by the sensors to the cloud.
+* Build a cloud based analytics pipeline and a visualization dashboard for spatio temporal data processing and real time visualization of air quality.
+* Build a notification system to alert the users about the air quality in their location.
+* Use encryption-decryption techniques to ensure secure transfer of data from the embedded device to the cloud
