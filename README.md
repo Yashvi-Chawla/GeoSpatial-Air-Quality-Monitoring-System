@@ -14,4 +14,4 @@ Based on this, the objectives of our project are:
 * Build a cloud based analytics pipeline and a visualization dashboard for spatio temporal data processing and real time visualization of air quality.
 * Build a notification system to alert the users about the air quality in their location.
 * Use encryption-decryption techniques to ensure secure transfer of data from the embedded device to the cloud
-![image](dataflow.png)
+![image](https://github.com/Yashvi-Chawla/GeoSpatial-Air-Quality-Monitoring-System/blob/main/dataflow.jpg)
